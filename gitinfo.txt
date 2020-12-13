@@ -1,0 +1,9 @@
+git-revision=547e9af_Anwender_2015-08-02 19:46:55 +0200  Ticket#739
+  Ticket#769
+  Ticket#782
+  Ticket#784
+  ca
+  captcha-fix
+* master
+  ribbons
+  ribbons_m
